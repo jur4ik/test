@@ -1,4 +1,4 @@
-angular.module('HelloUserApp', [])
+angular.module('HomeAuto', [])
           .controller('HelloUserController', function($scope) {
               $scope.greeting ="";
               $scope.NameChange = function () {
